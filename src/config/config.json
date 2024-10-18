@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "Vogueabond | Website",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -17,18 +17,18 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Yan Konichshev",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Vogueabond Website"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2024 by and for the exclusive use of Vogueabond"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "address": "Via Panisperna, 8300184 Roma RM, Italy",
     "email": "info@bookworm.org",
     "phone": "+800 567 1234"
   }
